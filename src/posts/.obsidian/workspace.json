@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "054754f48f3d2d9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "51c0357e6fbb423f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f357516cb5f0f67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09fb96fdd0134626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "094dbb638b13c440",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "흠.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d5a3daa3b613e7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "55330c9a37ea0d3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0308c2cba30736f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b001c35791dc6a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf969de0b0671bb4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d6307127e2596925",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2ad3cb643b9b1e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2b9de1b6282933d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "흠.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc93f496b985a8ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "흠.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c66d2a77f096b0c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2715c8e0651f17cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "흠.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "094dbb638b13c440",
+  "lastOpenFiles": [
+    "옵디시언에서 파일 생성.md",
+    "test.md",
+    "new/newfile.md",
+    "흠.md",
+    "new"
+  ]
+}
