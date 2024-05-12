@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "흠.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "흠.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "흠.md"
+                "file": "test.md"
               }
             }
           }
@@ -171,12 +171,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "094dbb638b13c440",
+  "active": "09fb96fdd0134626",
   "lastOpenFiles": [
+    "흠.md",
     "옵디시언에서 파일 생성.md",
     "test.md",
     "new/newfile.md",
-    "흠.md",
     "new"
   ]
 }
